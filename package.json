@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Write unit tests for a JavaScript app using Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlcarrascof/Testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlcarrascof/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/jlcarrascof/Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
